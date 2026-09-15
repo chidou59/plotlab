@@ -30,6 +30,7 @@ dist/
 # User data and generated output
 results/
 *.png
+!docs/assets/readme-hero.png
 *.xlsx
 *.xlsm
 *.xls

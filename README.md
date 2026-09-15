@@ -5,6 +5,10 @@
 ![CI](https://github.com/chidou59/plotlab/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+<p align="center">
+  <img src="docs/assets/readme-hero.png" alt="将 Excel 数据转换为论文级多系列图表的绘图流程插图" width="100%" />
+</p>
+
 一个面向 Windows 用户的桌面画图工具：选择包含多份 Excel 的文件夹，即可将每个文件作为一个数据系列，自动叠加绘制成点图或折线图。
 
 ## 数据格式
