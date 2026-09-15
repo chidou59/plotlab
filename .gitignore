@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+.venv1/
+venv/
+env/
+
+# Editors and operating systems
+.idea/
+.vscode/
+[Dd]esktop.ini
+Thumbs.db
+.DS_Store
+
+# Build and package output
+build/
+dist/
+*.spec
+*.egg-info/
+
+# User data and generated output
+results/
+*.png
+*.xlsx
+*.xlsm
+*.xls
+!tests/fixtures/*.xlsx
+!tests/fixtures/*.xlsm
+!tests/fixtures/*.xls
